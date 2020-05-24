@@ -9,15 +9,16 @@
     "dev": "nodejs-dashboard node dev.index.js"
   },
   "repository": {
-    "type": "",
-    "url": ""
+    "type": "git",
+    "url": "git remote add origin https://github.com/raianiket/Node-Stateless-Microservices.git
+    "
   },
   "keywords": [
     "hackerbay",
     "interview-task",
     "nodejs"
   ],
-  "author": "Adebayo Moses",
+  "author": "Aniket",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.2",
